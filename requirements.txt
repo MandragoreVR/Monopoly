@@ -1,0 +1,2 @@
+tkinter (pip install tkinter)
+pil (pip install pillow)
